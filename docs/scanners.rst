@@ -15,6 +15,8 @@ that works right for you based on recommentations from other Paperless users.
 +=========+================+=====+=====+=====+================+
 | Brother | `ADS-1500W`_   | yes | no  | yes | `danielquinn`_ |
 +---------+----------------+-----+-----+-----+----------------+
+| Brother | `ADS-2600W`_   | yes | no  | yes | `e0mi`_        |
++---------+----------------+-----+-----+-----+----------------+
 | Brother | `MFC-J6930DW`_ | yes |     |     | `ayounggun`_   |
 +---------+----------------+-----+-----+-----+----------------+
 | Brother | `MFC-J5910DW`_ | yes |     |     | `bmsleight`_   |
